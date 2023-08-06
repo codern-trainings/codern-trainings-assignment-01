@@ -1,0 +1,9 @@
+.images-container{
+    display: flex;
+    justify-content: center;
+}
+
+.images-container img{
+    height: 25rem;
+    margin: 0.5rem;
+}
